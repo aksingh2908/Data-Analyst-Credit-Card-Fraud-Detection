@@ -1,5 +1,5 @@
 # Data-Analyst-Credit-Card-Fraud-Detection
-## 1. Problem Statement
+## Problem Statement
 With the growth of e-commerce websites, people and financial companies rely on online services
 to carry out their transactions that have led to an exponential increase in the credit card frauds 
 1. Fraudulent credit card transactions lead to a loss of huge amount of money. The design of an effective fraud detection system is necessary in order to reduce the losses incurred by the customers and financial companies
