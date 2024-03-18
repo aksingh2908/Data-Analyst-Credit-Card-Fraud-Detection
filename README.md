@@ -1,5 +1,16 @@
 # Note :- csv file is unable to upload so if anyone need the csv file kindly mail me for it.
 # Data-Analyst-Credit-Card-Fraud-Detection
+# For the development of a data analyst project here are some essential things you may use:
+## Programming Languages:Python
+## Integrated Development Environment (IDE): 
+## Jupyter Notebook or JupyterLab: Provides an interactive environment for data analysis and visualization, allowing you to combine code, visualizations, and explanatory text in one document.
+## Data Visualization Libraries: 
+## Matplotlib: A versatile plotting library for creating static, animated, and interactive visualizations.
+## Seaborn: Built on top of Matplotlib, Seaborn provides a high-level interface for creating attractive statistical graphics.
+## Data Analysis Libraries:
+## Pandas: Provides data structures and functions for efficiently working with structured data, such as dataframes.
+## NumPy: Fundamental package for scientific computing in Python, offering support for arrays, matrices, and mathematical functions.
+## Data Sources: Depending on your project, you may need to access and collect data from various sources such as APIs, CSV files, databases, or web scraping.
 ## Problem Statement
 With the growth of e-commerce websites, people and financial companies rely on online services
 to carry out their transactions that have led to an exponential increase in the credit card frauds 
